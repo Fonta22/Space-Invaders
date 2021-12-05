@@ -1,0 +1,13 @@
+# Unity Meta files
+*.meta
+
+# CS Projects settings
+Space Invaders.sln
+Assembly-CSharp.csproj
+/ProjectSettings
+
+# Folders
+/Logs
+/obj
+/Packages
+/Library
